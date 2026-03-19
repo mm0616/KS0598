@@ -17,9 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '科易互动机器人'
-author = 'keyes'
-copyright = 'Shenzhen KEYES DIY ROBOT co., Ltd.'
+project = 'keyestudio WiKi'
+copyright = 'keyestudio , WiKi'
+author = 'keyestudio WiKi'
+copyright = 'Shenzhen keyestudio Technology Co., Ltd'
 
 # -- General configuration ---------------------------------------------------
 
@@ -64,10 +65,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_book_theme'
-html_theme_options = {
-  "show_toc_level": 3,
-}
+html_theme = 'sphinx_rtd_theme'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
