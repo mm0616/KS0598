@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Keyes brick 智能家居套装 ARDUINO米思奇创客教育编程套装
+   :caption: FKS0001 Keyestudio ESP32 Inventor Learning Kit
 
    README.md
    docs/1. Product introduction/1. Product Introduction.md
